@@ -1,0 +1,44 @@
+[
+    {
+      "id": "987654",
+      "cover": "https://i.ibb.co/hsxSWBX/tp228-presentation-05-385.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Willow",
+      "author_img": "https://i.ibb.co/TvYs4xW/wr1.jpg",
+      "posted_date": "May 12, 2024",
+      "reading_time": 15,
+      "hashtags": ["#fiction", "#gardens", "#magic"]
+    },
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/WyKhHjM/laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Benjamin Steele",
+      "author_img": "https://i.ibb.co/5rPZs0L/wr2.jpg",
+      "posted_date": "April 28, 2024",
+      "reading_time": 20,
+      "hashtags": ["#fantasy", "#time_travel", "#adventure"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/pPrg39y/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Jessica Winter",
+      "author_img": "https://i.ibb.co/6RZ8jxF/wr3.jpg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 18,
+      "hashtags": ["#horror", "#mystery", "#suspense"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/TPTXPYm/photo-1432821596592-e2c18b78144f.jpg",
+      "title": "Beyond the Stars",
+      "author": "Michael Nova",
+      "author_img": "https://i.ibb.co/gddXtLy/wr4.jpg",
+      "posted_date": "February 3, 2024",
+      "reading_time": 25,
+      "hashtags": ["#science_fiction", "#space", "#exploration"]
+    }
+]
+
+  
